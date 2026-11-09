@@ -1,3 +1,3 @@
 def buat_soal():
-    return {"pertanyaan" "Apa ibukota Indonesia?", "jawaban": "jakarta"}
-
+    return {"pertanyaan": "apa ibukota indonesia", "jawaban": "jakarta"}
+    
